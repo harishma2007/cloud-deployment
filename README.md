@@ -1,4 +1,4 @@
-Cloud Infrastructure Deployment and Monitoring Capstone
+Multistage docker optimization
 
 A small Node.js + Express application backed by PostgreSQL. It demonstrates:
 - A multi-stage Docker build.
