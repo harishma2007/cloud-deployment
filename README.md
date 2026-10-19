@@ -1,4 +1,4 @@
-Multistage docker optimization
+Multistage Docker optimization and cloud deployment
 
 A small Node.js + Express application backed by PostgreSQL. It demonstrates:
 - A multi-stage Docker build.
